@@ -7262,3 +7262,91 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 00:54:48.720] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14062, l='ServerLevel[world]', x=-93.13, y=60.00, z=-198.71, removed=DISCARDED]
 [16Jul2025 00:54:49.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14063, l='ServerLevel[world]', x=-94.13, y=60.00, z=-199.81, removed=DISCARDED]
 [16Jul2025 00:54:51.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.77338409423828) to LOW (avg. 35.23085021972656)
+[16Jul2025 00:55:06.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.23085021972656) to NORMAL (avg. 41.87055587768555)
+[16Jul2025 00:55:21.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.87055587768555) to LOW (avg. 32.89274597167969)
+[16Jul2025 00:55:36.037] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.89274597167969) to NORMAL (avg. 40.561126708984375)
+[16Jul2025 00:55:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [First Steps]
+[16Jul2025 00:55:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Too Much]
+[16Jul2025 00:56:05.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: verganuel[/100.123.10.98:59110] logged in with entity id 60580 at (6.5, 70.0, 7.5)
+[16Jul2025 00:56:05.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel joined the game
+[16Jul2025 00:56:05.608] [Server thread/INFO] [APTweaks(Player)/]: Player verganuel ServerPlayer['verganuel'/60580, l='ServerLevel[world]', x=6.50, y=70.00, z=7.50] logged in and will be protected for 90 secs.
+[16Jul2025 00:56:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Dungeons And Combat]
+[16Jul2025 00:56:05.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Ice and Fire]
+[16Jul2025 00:56:05.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Terramity]
+[16Jul2025 00:56:06.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.98499298095703) to HIGH (avg. 49.50456237792969)
+[16Jul2025 00:56:07.253] [Server thread/INFO] [APTweaks(Player)/]: Protected Player verganuel was successful validated after 1 secs.
+[16Jul2025 00:56:07.253] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player verganuel!
+[16Jul2025 00:56:13.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has reached the goal [Worthy Equipment]
+[16Jul2025 00:56:13.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Apothic Affixes]
+[16Jul2025 00:56:13.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.50456237792969) to NORMAL (avg. 43.188621520996094)
+[16Jul2025 00:56:18.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [I Found It Underground]
+[16Jul2025 00:56:43.543] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.56194305419922) to MEDIUM (avg. 47.05989456176758)
+[16Jul2025 00:56:58.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.05989456176758) to NORMAL (avg. 42.391143798828125)
+[16Jul2025 00:57:10.198] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon lost connection: Disconnected
+[16Jul2025 00:57:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon left the game
+[16Jul2025 00:57:18.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX lost connection: Disconnected
+[16Jul2025 00:57:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX left the game
+[16Jul2025 00:57:24.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> llame meneses
+[16Jul2025 00:57:28.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.16080093383789) to LOW (avg. 24.650379180908203)
+[16Jul2025 00:57:30.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> :V
+[16Jul2025 00:57:36.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> valentin
+[16Jul2025 00:57:36.710] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/58377, l='ServerLevel[world]', x=-204.88, y=32.41, z=-344.88, removed=DISCARDED]
+[16Jul2025 00:57:42.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> anda en la aldea de ellos?
+[16Jul2025 00:57:51.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.237560272216797) to NORMAL (avg. 40.29019546508789)
+[16Jul2025 00:57:58.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.29019546508789) to LOW (avg. 37.36766052246094)
+[16Jul2025 00:58:17.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> valentin
+[16Jul2025 00:58:35.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <REDORSIDI> q
+[16Jul2025 00:58:43.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> anda en la aldea de ellos?
+[16Jul2025 00:58:47.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> para pedir tp
+[16Jul2025 00:58:59.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <REDORSIDI> nel y ya me mataron xd
+[16Jul2025 00:59:05.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> carai
+[16Jul2025 00:59:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI was slain by Vampire
+[16Jul2025 00:59:14.621] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Jul2025 00:59:14.622] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Jul2025 00:59:19.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> meneses porque se fue
+[16Jul2025 00:59:38.360] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: vampirism:hunter_outpost/ten
+[16Jul2025 00:59:48.697] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:48.698] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:48.698] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:48.698] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:48.699] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:48.711] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:48.711] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:50.516] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:50.516] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:50.782] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:59:50.783] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:00:16.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Monster Hunter]
+[16Jul2025 01:00:51.067] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[16Jul2025 01:00:51.067] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[16Jul2025 01:00:51.333] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.708179473876953) to NORMAL (avg. 42.74070739746094)
+[16Jul2025 01:00:58.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.74070739746094) to LOW (avg. 34.89628601074219)
+[16Jul2025 01:01:32.835] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.836] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.836] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.836] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.923] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.923] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.924] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.924] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:01:32.925] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:02:06.956] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:02:06.957] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:02:07.629] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:02:07.629] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:02:49.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> valentin
+[16Jul2025 01:02:53.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> necesita ayuda?
+[16Jul2025 01:02:57.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <verganuel> o ya esta bien
+[16Jul2025 01:03:04.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Stone Age]
+[16Jul2025 01:03:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Getting an Upgrade]
+[16Jul2025 01:04:11.166] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:04:11.167] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:04:11.167] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:04:11.168] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:04:11.168] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:04:11.711] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:04:11.712] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 01:04:58.560] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.720117568969727) to MEDIUM (avg. 47.974456787109375)
+[16Jul2025 01:05:08.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[16Jul2025 01:05:08.062] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.974456787109375) to VERY_HIGH (avg. 62.693145751953125)
+[16Jul2025 01:05:10.842] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.02341525) to VERY_HIGH (avg. 73.02104697)

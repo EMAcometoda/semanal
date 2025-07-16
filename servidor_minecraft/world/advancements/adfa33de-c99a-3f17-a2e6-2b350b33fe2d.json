@@ -59,7 +59,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -84,6 +84,12 @@
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-16 00:54:15 +0000"
     },
     "done": true
   },
@@ -249,6 +255,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-07-16 00:22:43 +0000"
@@ -323,7 +341,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -538,6 +556,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-16 00:49:53 +0000"
@@ -724,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
@@ -796,6 +826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wixie_hat": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
@@ -822,7 +858,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -1116,7 +1152,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -1276,6 +1312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
@@ -1368,7 +1410,7 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -1416,7 +1458,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -1576,6 +1618,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-16 00:54:19 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/item_tent": {
     "criteria": {
       "has_bed": "2025-07-16 00:40:30 +0000"
@@ -1674,9 +1722,15 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stonecutter_stair": {
     "criteria": {
@@ -1804,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/source_berry_roll": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
@@ -1812,7 +1872,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -2089,7 +2149,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -2108,6 +2168,12 @@
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-07-16 00:54:18 +0000"
     },
     "done": true
   },
@@ -2147,6 +2213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-07-16 00:49:53 +0000"
@@ -2173,7 +2245,7 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -2269,7 +2341,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -2443,7 +2515,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 00:50:50 +0000"
+      "log_spam_fixer": "2025-07-16 00:56:50 +0000"
     },
     "done": false
   },
@@ -2615,6 +2687,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
@@ -2630,6 +2708,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-16 00:29:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
     },
     "done": true
   },
@@ -2690,6 +2774,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-16 00:26:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/garlic_finder": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
     },
     "done": true
   },
@@ -2807,6 +2897,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_bottles": "2025-07-16 00:54:19 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
@@ -2903,6 +2999,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-07-16 00:54:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mirrorweave": {
     "criteria": {
       "has_journal": "2025-07-16 00:22:43 +0000"
@@ -2996,6 +3098,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-07-16 00:25:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-16 00:54:18 +0000"
     },
     "done": true
   },
