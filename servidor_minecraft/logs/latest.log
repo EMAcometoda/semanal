@@ -7173,3 +7173,92 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [16Jul2025 00:42:36.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.16383743286133) to LOW (avg. 25.00132942199707)
 [16Jul2025 00:44:16.662] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [16Jul2025 00:44:16.666] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[16Jul2025 00:45:06.053] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.32258987426758) to NORMAL (avg. 45.33787536621094)
+[16Jul2025 00:45:12.034] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilerinotFound lost connection: Disconnected
+[16Jul2025 00:45:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound left the game
+[16Jul2025 00:45:21.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.33787536621094) to VERY_LOW (avg. 17.359697341918945)
+[16Jul2025 00:45:36.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.359697341918945) to LOW (avg. 27.807470321655273)
+[16Jul2025 00:45:43.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.807470321655273) to VERY_LOW (avg. 18.507362365722656)
+[16Jul2025 00:46:06.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.504819869995117) to LOW (avg. 21.618852615356445)
+[16Jul2025 00:46:13.536] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.618852615356445) to VERY_LOW (avg. 19.929725646972656)
+[16Jul2025 00:46:21.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.929725646972656) to LOW (avg. 25.743568420410156)
+[16Jul2025 00:46:27.704] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [dungeons_and_combat:dungeons_and_combat] rejected their client side version number
+[16Jul2025 00:46:27.704] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Jul2025 00:46:27.753] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f2741a6[id=<null>,name=verganuel,properties={},legacy=false] (/100.123.10.98:59031) lost connection: Connection closed - mismatched mod channel list
+[16Jul2025 00:46:36.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.743568420410156) to VERY_LOW (avg. 17.724008560180664)
+[16Jul2025 00:46:49.256] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:46:49.257] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:46:49.273] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:46:49.273] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:09.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [First Steps]
+[16Jul2025 00:47:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Enchanted to Meet You]
+[16Jul2025 00:47:36.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.557554244995117) to LOW (avg. 25.725303649902344)
+[16Jul2025 00:47:36.070] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[16Jul2025 00:47:36.126] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[16Jul2025 00:47:36.302] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:36.302] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:36.302] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:36.303] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:36.303] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:36.316] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:36.316] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:40.710] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[16Jul2025 00:47:40.711] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[16Jul2025 00:47:46.750] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.751] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.751] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.751] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.751] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.761] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.761] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.761] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:46.761] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:47:51.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.725303649902344) to VERY_LOW (avg. 16.751131057739258)
+[16Jul2025 00:48:23.246] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [dungeons_and_combat:dungeons_and_combat] rejected their client side version number
+[16Jul2025 00:48:23.246] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[16Jul2025 00:48:23.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56030a34[id=<null>,name=verganuel,properties={},legacy=false] (/100.123.10.98:59047) lost connection: Connection closed - mismatched mod channel list
+[16Jul2025 00:48:27.003] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ffd70db[id=<null>,name=REDORSIDI,properties={},legacy=false] (/100.100.108.112:52233) lost connection: Disconnected
+[16Jul2025 00:48:35.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: REDORSIDI[/100.100.108.112:52234] logged in with entity id 44017 at (2.5, 69.0, 4.5)
+[16Jul2025 00:48:35.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI joined the game
+[16Jul2025 00:48:35.757] [Server thread/INFO] [APTweaks(Player)/]: Player REDORSIDI ServerPlayer['REDORSIDI'/44017, l='ServerLevel[world]', x=2.50, y=69.00, z=4.50] logged in and will be protected for 90 secs.
+[16Jul2025 00:48:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI has made the advancement [Dungeons And Combat]
+[16Jul2025 00:48:35.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI has made the advancement [Ice and Fire]
+[16Jul2025 00:48:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: REDORSIDI has made the advancement [Terramity]
+[16Jul2025 00:48:36.079] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.427309036254883) to LOW (avg. 35.43120574951172)
+[16Jul2025 00:48:36.236] [Server thread/INFO] [APTweaks(Player)/]: Protected Player REDORSIDI was successful validated after 0 secs.
+[16Jul2025 00:48:36.237] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player REDORSIDI!
+[16Jul2025 00:48:41.470] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:48:41.470] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:48:41.470] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:48:41.471] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:48:41.561] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:48:41.562] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:48:41.562] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:48:41.562] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:49:00.093] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[16Jul2025 00:49:03.432] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-59, z=36}
+[16Jul2025 00:49:08.480] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=15, y=-57, z=7}
+[16Jul2025 00:49:08.481] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=23, y=-37, z=8}
+[16Jul2025 00:49:08.495] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-59, z=-17}
+[16Jul2025 00:49:08.496] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-12}
+[16Jul2025 00:49:08.496] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=16, y=-58, z=-15}
+[16Jul2025 00:49:08.496] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=19, y=-59, z=-10}
+[16Jul2025 00:49:43.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <REDORSIDI> qlq bbs
+[16Jul2025 00:49:50.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> solo estoy yo
+[16Jul2025 00:49:53.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Acquire Hardware]
+[16Jul2025 00:51:19.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <REDORSIDI> meneses bb
+[16Jul2025 00:51:21.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.96.207.62:57541] logged in with entity id 50570 at (-4.5, 94.0, -1.5)
+[16Jul2025 00:51:21.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[16Jul2025 00:51:21.570] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/50570, l='ServerLevel[world]', x=-4.50, y=94.00, z=-1.50] logged in and will be protected for 90 secs.
+[16Jul2025 00:51:21.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Dungeons And Combat]
+[16Jul2025 00:51:21.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Ice and Fire]
+[16Jul2025 00:51:21.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Terramity]
+[16Jul2025 00:51:22.286] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 0 secs.
+[16Jul2025 00:51:22.286] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[16Jul2025 00:52:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <REDORSIDI> como funciona el tpa
+[16Jul2025 00:52:17.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [The Titan]
+[16Jul2025 00:54:15.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Not Today, Thank You]
+[16Jul2025 00:54:36.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.255489349365234) to NORMAL (avg. 41.77338409423828)
+[16Jul2025 00:54:48.720] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14062, l='ServerLevel[world]', x=-93.13, y=60.00, z=-198.71, removed=DISCARDED]
+[16Jul2025 00:54:49.689] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/14063, l='ServerLevel[world]', x=-94.13, y=60.00, z=-199.81, removed=DISCARDED]
+[16Jul2025 00:54:51.036] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.77338409423828) to LOW (avg. 35.23085021972656)
