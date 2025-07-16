@@ -71,9 +71,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/lime_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-16 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -86,6 +98,12 @@
   "ars_nouveau:recipes/misc/ritual_moonfall": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -128,6 +146,12 @@
   "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 01:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -269,6 +293,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/orange_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -305,6 +335,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-07-16 01:02:37 +0000"
@@ -332,6 +368,12 @@
   "ars_nouveau:recipes/misc/void_prism": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -511,6 +553,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-07-16 01:14:19 +0000",
       "minecraft:zombie": "2025-07-16 01:00:16 +0000"
     },
     "done": false
@@ -524,6 +567,18 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 01:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-16 01:20:52 +0000"
     },
     "done": true
   },
@@ -560,6 +615,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
     },
     "done": true
   },
@@ -617,6 +678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -662,6 +729,12 @@
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -722,6 +795,12 @@
   "ars_nouveau:recipes/misc/vitalic_sourcelink": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -947,6 +1026,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_planks": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1121,6 +1206,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:15:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1151,15 +1242,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:15:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
     },
     "done": true
   },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-07-16 01:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
   "dungeons_and_combat:the_rogue": {
     "criteria": {
       "the_rogue_0": "2025-07-16 00:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1217,9 +1332,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1337,6 +1464,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 01:15:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/purple_archwood_wood": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1346,6 +1479,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1367,6 +1506,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sconce": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1376,6 +1521,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/item_tent": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1400,6 +1551,12 @@
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1487,6 +1644,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-07-16 01:03:04 +0000"
@@ -1529,9 +1692,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2025-07-16 01:05:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1577,6 +1758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-07-16 01:05:59 +0000"
@@ -1592,6 +1779,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_calcite": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1613,6 +1806,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/green_sbed": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1631,6 +1830,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1643,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1652,6 +1863,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-07-16 01:06:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1781,6 +1998,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/misc/reinforced_paper_gold": {
     "criteria": {
       "has_crafting_table": "2025-07-16 01:02:37 +0000"
@@ -1823,9 +2046,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/candelabra": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 01:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1856,6 +2091,18 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 01:20:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -1919,6 +2166,12 @@
     },
     "done": true
   },
+  "mcwfurnitures:recipes/cherry": {
+    "criteria": {
+      "has_wood": "2025-07-16 01:20:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_harvest": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1955,6 +2208,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-07-16 01:02:32 +0000"
@@ -1979,6 +2238,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -1994,6 +2259,12 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-16 01:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:15:18 +0000"
     },
     "done": true
   },
@@ -2027,6 +2298,12 @@
     },
     "done": false
   },
+  "create:recipes/building_blocks/crafting/logistics/gray_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -2036,6 +2313,12 @@
   "ars_nouveau:recipes/misc/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -2075,6 +2358,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sky_block": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -2093,6 +2382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blank_thread": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -2108,6 +2403,18 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -2144,6 +2451,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -2267,6 +2580,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ring_of_potential": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -2291,6 +2610,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -2303,6 +2628,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/using/trailblazer": {
     "criteria": {
       "log_spam_fixer": "2025-07-16 00:56:06 +0000"
@@ -2312,6 +2643,18 @@
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_table_cloth": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -2369,13 +2712,23 @@
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-16 01:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-16 00:56:06 +0000",
+      "minecraft:cherry_grove": "2025-07-16 01:20:49 +0000",
+      "minecraft:sunflower_plains": "2025-07-16 01:20:23 +0000",
       "minecraft:birch_forest": "2025-07-16 01:05:37 +0000",
       "minecraft:dark_forest": "2025-07-16 00:58:51 +0000",
       "minecraft:river": "2025-07-16 00:58:01 +0000",
-      "minecraft:old_growth_birch_forest": "2025-07-16 01:10:20 +0000"
+      "minecraft:forest": "2025-07-16 01:10:53 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-16 01:10:20 +0000",
+      "minecraft:plains": "2025-07-16 01:13:17 +0000"
     },
     "done": false
   },
@@ -2388,6 +2741,12 @@
   "ars_nouveau:recipes/misc/alteration_table": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },
@@ -2435,6 +2794,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-07-16 01:13:06 +0000",
       "cooked_salmon": "2025-07-16 01:07:46 +0000"
     },
     "done": false
@@ -2487,6 +2847,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-16 01:19:54 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:56:05 +0000"
@@ -2508,6 +2874,12 @@
   "vampirism:recipes/decorations/general/altar_cleansing": {
     "criteria": {
       "has_vampire_book": "2025-07-16 01:02:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2025-07-16 01:12:35 +0000"
     },
     "done": true
   },

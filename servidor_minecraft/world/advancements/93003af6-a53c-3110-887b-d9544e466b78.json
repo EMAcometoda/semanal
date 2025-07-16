@@ -11,6 +11,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -47,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 01:16:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_turret_to_basic_spell_turret": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -62,6 +86,18 @@
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-16 01:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
     },
     "done": true
   },
@@ -89,6 +125,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_slab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -113,6 +167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-07-16 01:19:46 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/imbuement_chamber": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -125,15 +185,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_slab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2025-07-16 01:17:18 +0000"
     },
     "done": true
   },
@@ -155,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-07-16 01:10:36 +0000"
@@ -167,9 +257,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:19:56 +0000"
     },
     "done": true
   },
@@ -233,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -269,9 +383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-16 01:12:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -365,9 +491,28 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-07-16 01:14:43 +0000",
+      "minecraft:zombie": "2025-07-16 01:14:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_chest": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
     },
     "done": true
   },
@@ -380,6 +525,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -479,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/polished_source_sconce": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -497,9 +654,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
     },
     "done": true
   },
@@ -569,6 +738,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/throne": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_fence_gate": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -578,6 +759,24 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/fire_place": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:17:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-16 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-16 01:16:59 +0000"
     },
     "done": true
   },
@@ -617,15 +816,45 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare": {
+    "criteria": {
+      "sword": "2025-07-16 01:17:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-07-16 01:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-16 01:17:58 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/magebloom_block": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-16 01:17:08 +0000"
     },
     "done": true
   },
@@ -644,6 +873,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_fence": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:origin": {
+    "criteria": {
+      "origin_0": "2025-07-16 01:12:13 +0000"
     },
     "done": true
   },
@@ -689,6 +924,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-07-16 01:14:49 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/warp_scroll": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -710,6 +951,12 @@
   "ars_nouveau:recipes/misc/red_sbed": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -737,9 +984,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:19:56 +0000"
     },
     "done": true
   },
@@ -773,9 +1032,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-07-16 01:14:15 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crucifix": {
+    "criteria": {
+      "planks": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -803,15 +1080,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:19:56 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-16 01:16:59 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -880,6 +1175,12 @@
       "log_spam_fixer": "2025-07-16 01:10:37 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
   },
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
@@ -977,15 +1278,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-07-16 01:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/grave_cage": {
+    "criteria": {
+      "has_coal": "2025-07-16 01:16:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-16 01:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-07-16 01:17:02 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-16 01:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/stake": {
+    "criteria": {
+      "has_sticks": "2025-07-16 01:19:56 +0000"
     },
     "done": true
   },
@@ -1007,9 +1362,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-16 01:17:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_small_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -1031,6 +1398,12 @@
     },
     "done": true
   },
+  "dungeons_and_combat:the_titan": {
+    "criteria": {
+      "the_titan_0": "2025-07-16 01:12:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1049,6 +1422,24 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-16 01:17:09 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_cascading_sapling": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1058,6 +1449,12 @@
   "ars_nouveau:recipes/misc/alchemical_sourcelink": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-07-16 01:19:46 +0000"
     },
     "done": true
   },
@@ -1109,6 +1506,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1118,6 +1521,12 @@
   "ars_nouveau:recipes/misc/green_sbed": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-16 01:17:08 +0000"
     },
     "done": true
   },
@@ -1142,6 +1551,18 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-16 01:16:31 +0000"
     },
     "done": true
   },
@@ -1205,6 +1626,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-16 01:16:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1214,6 +1647,12 @@
   "ars_nouveau:recipes/misc/repository": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-16 01:16:31 +0000"
     },
     "done": true
   },
@@ -1235,6 +1674,24 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-07-16 01:14:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/altar_inspiration": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/rotating_spell_turret": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1253,9 +1710,39 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-07-16 01:14:44 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candelabra": {
+    "criteria": {
+      "has_gold": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-16 01:18:35 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-07-16 01:17:02 +0000"
     },
     "done": true
   },
@@ -1289,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-16 01:16:32 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-07-16 01:10:36 +0000"
@@ -1304,6 +1797,12 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -1325,6 +1824,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1334,6 +1851,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-16 01:17:58 +0000"
     },
     "done": true
   },
@@ -1391,6 +1914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-16 01:17:08 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/dowsing_rod": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1445,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-16 01:16:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mycelial_sourcelink": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1463,6 +1998,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/cross": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_large_bricks_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1478,6 +2019,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:19:56 +0000"
     },
     "done": true
   },
@@ -1541,6 +2088,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/bat_cage": {
+    "criteria": {
+      "has_gold": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1550,6 +2103,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-07-16 01:14:44 +0000"
     },
     "done": true
   },
@@ -1577,15 +2136,33 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/candelabra_candles": {
+    "criteria": {
+      "has_gold": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-16 01:16:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/alchemy_table": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -1631,15 +2208,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-07-16 01:16:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-07-16 01:14:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/gilded_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-16 01:14:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-07-16 01:10:37 +0000"
+      "minecraft:old_growth_pine_taiga": "2025-07-16 01:10:37 +0000",
+      "minecraft:forest": "2025-07-16 01:12:50 +0000",
+      "minecraft:plains": "2025-07-16 01:13:20 +0000"
     },
     "done": false
   },
@@ -1673,6 +2270,18 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-07-16 01:13:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-07-16 01:10:36 +0000"
@@ -1685,9 +2294,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-16 01:17:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-07-16 01:18:35 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/vampire_rack": {
+    "criteria": {
+      "has_planks": "2025-07-16 01:19:50 +0000"
     },
     "done": true
   },
@@ -1721,6 +2348,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/altar_cleansing": {
+    "criteria": {
+      "has_vampire_book": "2025-07-16 01:19:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_slab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
@@ -1742,6 +2375,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 01:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 01:17:18 +0000"
     },
     "done": true
   },
