@@ -10,6 +10,7 @@
       "minecraft:old_growth_pine_taiga": "2025-07-16 00:01:09 +0000",
       "minecraft:taiga": "2025-07-16 00:42:43 +0000",
       "minecraft:cherry_grove": "2025-07-16 01:48:39 +0000",
+      "minecraft:dark_forest": "2025-07-16 01:59:46 +0000",
       "minecraft:sparse_jungle": "2025-07-16 01:49:39 +0000",
       "minecraft:river": "2025-07-16 00:24:52 +0000",
       "minecraft:forest": "2025-07-16 00:23:33 +0000",
@@ -3047,87 +3048,45 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "vampirism:recipes/decorations/general/fire_place": {
     "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-16 01:50:16 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/ladder": {
-    "criteria": {
-      "has_stick": "2025-07-16 01:37:57 +0000"
+      "has_logs": "2025-07-16 01:35:35 +0000"
     },
     "done": true
   },
-  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
+      "has_log": "2025-07-16 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-07-16 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 01:35:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 01:35:35 +0000"
     },
     "done": true
   },
@@ -3137,7 +3096,109 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/eat_block_of_chocolate": {
+    "criteria": {
+      "eat_block_of_chocolate": "2025-07-16 01:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/stake": {
+    "criteria": {
+      "has_sticks": "2025-07-16 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-07-16 01:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-16 01:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-16 01:41:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-07-16 01:41:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-16 01:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-16 01:42:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-16 01:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-16 01:42:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-16 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-16 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-07-16 01:42:56 +0000"
     },
@@ -3155,27 +3216,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-07-16 01:37:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2025-07-16 01:44:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-16 01:43:44 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/transportation/paraglider_iron": {
-    "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
     },
     "done": true
   },
@@ -3185,33 +3228,9 @@
     },
     "done": true
   },
-  "vc_gliders:recipes/misc/reinforced_paper": {
-    "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
-    },
-    "done": true
-  },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-07-16 01:43:44 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/fire_place": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/transportation/paraglider_gold": {
-    "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-07-16 01:42:49 +0000"
     },
     "done": true
   },
@@ -3221,81 +3240,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/hunter/hunter_table": {
-    "criteria": {
-      "has_fang": "2025-07-16 01:48:29 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/transportation/paraglider_netherite": {
-    "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-07-16 01:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-16 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
-    "criteria": {
-      "has_wheat_seeds": "2025-07-16 01:48:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-07-16 01:37:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-16 01:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/stripped_oak_log_from_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-16 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-07-16 01:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-07-16 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/oak": {
-    "criteria": {
-      "has_wood": "2025-07-16 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_block_of_chocolate": {
-    "criteria": {
-      "eat_block_of_chocolate": "2025-07-16 01:37:07 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/misc/copper_upgrade": {
-    "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
     },
     "done": true
   },
@@ -3311,51 +3258,15 @@
     },
     "done": true
   },
-  "vc_gliders:recipes/misc/nether_upgrade": {
-    "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-07-16 01:43:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-16 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-07-16 01:42:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-16 01:43:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_meal": {
-    "criteria": {
-      "has_item": "2025-07-16 01:42:49 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/combat/hunter/stake": {
-    "criteria": {
-      "has_sticks": "2025-07-16 01:37:57 +0000"
-    },
-    "done": true
-  },
-  "vc_gliders:recipes/transportation/paraglider_diamond": {
-    "criteria": {
-      "has_crafting_table": "2025-07-16 01:44:11 +0000"
     },
     "done": true
   },
@@ -3377,27 +3288,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_furnace": "2025-07-16 01:44:15 +0000"
+      "has_cobblestone": "2025-07-16 01:43:44 +0000"
     },
     "done": true
   },
-  "vampirism:main/root": {
+  "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
-      "main": "2025-07-16 01:48:29 +0000"
+      "has_cobblestone": "2025-07-16 01:43:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal": {
+  "vc_gliders:recipes/misc/reinforced_paper_diamond": {
     "criteria": {
-      "has_bone": "2025-07-16 01:41:51 +0000"
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
     },
     "done": true
   },
-  "vampirism:recipes/combat/hunter/crossbow_arrow_from_vanilla": {
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
-      "has_arrow": "2025-07-16 01:41:55 +0000"
+      "has_item": "2025-07-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_iron": {
+    "criteria": {
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/reinforced_paper": {
+    "criteria": {
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_gold": {
+    "criteria": {
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_netherite": {
+    "criteria": {
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/copper_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/misc/nether_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
+    },
+    "done": true
+  },
+  "vc_gliders:recipes/transportation/paraglider_diamond": {
+    "criteria": {
+      "has_crafting_table": "2025-07-16 01:44:11 +0000"
     },
     "done": true
   },
@@ -3413,57 +3366,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
-    "criteria": {
-      "has_blood_bottle": "2025-07-16 01:44:50 +0000"
-    },
-    "done": true
-  },
   "vc_gliders:recipes/misc/reinforced_paper_iron": {
     "criteria": {
       "has_crafting_table": "2025-07-16 01:44:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-16 01:35:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
-    "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-07-16 01:41:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-07-16 01:37:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
-    "criteria": {
-      "has_cod": "2025-07-16 01:42:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-07-16 01:43:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-07-16 01:44:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-07-16 01:42:56 +0000"
     },
     "done": true
   },
@@ -3473,23 +3378,119 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-07-16 01:43:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-16 01:44:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/decorations/smoker": {
     "criteria": {
-      "has_beef": "2025-07-16 01:42:49 +0000"
+      "has_furnace": "2025-07-16 01:44:15 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-16 01:44:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/vampire/blood_bottle_to_glass": {
+    "criteria": {
+      "has_blood_bottle": "2025-07-16 01:44:50 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/alchemy_table/alchemy_table/vampire_blood_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-16 01:48:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/hunter_table": {
+    "criteria": {
+      "has_fang": "2025-07-16 01:48:29 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/root": {
+    "criteria": {
+      "main": "2025-07-16 01:48:29 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-16 02:01:28 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
