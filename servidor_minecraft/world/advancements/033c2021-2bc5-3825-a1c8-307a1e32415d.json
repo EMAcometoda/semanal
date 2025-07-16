@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-07-16 00:20:20 +0000"
@@ -119,9 +125,27 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-16 00:25:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/harpy_feather": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -161,9 +185,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -203,9 +239,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-16 00:25:50 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_glass_shield": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
     },
     "done": true
   },
@@ -221,6 +293,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 00:20:02 +0000"
@@ -233,15 +317,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-16 00:20:26 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -266,6 +368,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -302,6 +410,12 @@
   "ars_nouveau:recipes/misc/wing_to_leather": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -344,6 +458,12 @@
   "ars_nouveau:recipes/misc/ritual_brazier": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/amethyst_ring": {
+    "criteria": {
+      "has_amethyst": "2025-07-16 00:25:47 +0000"
     },
     "done": true
   },
@@ -404,6 +524,12 @@
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2025-07-16 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -545,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-16 00:25:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -593,8 +725,22 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-16 00:25:18 +0000",
+      "minecraft:creeper": "2025-07-16 00:25:24 +0000",
       "minecraft:zombie": "2025-07-16 00:17:08 +0000"
     },
     "done": false
@@ -623,6 +769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -641,6 +793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -650,6 +808,18 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_diorite": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_ward_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -713,6 +883,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_alternating_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -725,9 +901,21 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/glass_shield": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_deny": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/anonymity_umbrella": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -773,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/cyan_table_cloth": {
     "criteria": {
       "has_wool": "2025-07-16 00:17:51 +0000"
@@ -785,9 +979,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/tombstone2": {
     "criteria": {
       "has_coble": "2025-07-16 00:20:26 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_lunar_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -818,6 +1024,12 @@
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -854,6 +1066,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/misc/chroma_shard_unpack": {
+    "criteria": {
+      "has_unpackable": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -911,6 +1129,12 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/super_glow_ring": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/throne": {
     "criteria": {
       "has_planks": "2025-07-16 00:20:02 +0000"
@@ -923,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-16 00:25:47 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -932,6 +1162,18 @@
   "vampirism:recipes/decorations/general/fire_place": {
     "criteria": {
       "has_logs": "2025-07-16 00:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-16 00:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -950,6 +1192,24 @@
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-07-16 00:17:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_golden_heart": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -989,15 +1249,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_forestation": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/food/general/garlic_bread": {
+    "criteria": {
+      "has_bread": "2025-07-16 00:23:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-07-16 00:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
     },
     "done": true
   },
@@ -1010,6 +1294,12 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -1049,6 +1339,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-16 00:16:36 +0000"
@@ -1085,9 +1381,27 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/ward_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "dungeons_and_combat:origin": {
     "criteria": {
       "origin_0": "2025-07-16 00:17:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
     },
     "done": true
   },
@@ -1118,6 +1432,12 @@
   "mcwfurnitures:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-07-16 00:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -1157,6 +1477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/red_sbed": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -1190,6 +1516,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -1247,6 +1579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mob_jar": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -1283,9 +1621,21 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/shadow_treads": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-16 00:25:50 +0000"
     },
     "done": true
   },
@@ -1295,15 +1645,33 @@
     },
     "done": true
   },
+  "chromaticarsenal:chroma_shard": {
+    "criteria": {
+      "has_item": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-07-16 00:20:19 +0000"
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/advancing_heart": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
     },
     "done": true
   },
@@ -1340,6 +1708,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-16 00:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
     },
     "done": true
   },
@@ -1388,6 +1762,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-16 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_shadow_treads": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -1442,6 +1822,12 @@
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-07-16 00:25:10 +0000"
     },
     "done": true
   },
@@ -1571,15 +1957,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-07-16 00:20:26 +0000"
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/friendly_fire_flower": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/fog_diffuser": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
     },
     "done": true
   },
@@ -1607,6 +2011,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -1616,6 +2038,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-16 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-07-16 00:23:51 +0000"
     },
     "done": true
   },
@@ -1670,6 +2098,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-16 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
     },
     "done": true
   },
@@ -1733,15 +2167,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-07-16 00:17:37 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/misc/chroma_block": {
+    "criteria": {
+      "has_unpackable": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
     },
     "done": true
   },
@@ -1829,6 +2287,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-16 00:29:30 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/sourcestone_large_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -1838,6 +2302,12 @@
   "ars_nouveau:recipes/misc/archwood_trapdoor": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -1865,6 +2335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-16 00:29:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2025-07-16 00:17:51 +0000"
@@ -1889,9 +2365,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-07-16 00:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -1910,6 +2404,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-07-16 00:20:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
     },
     "done": true
   },
@@ -1955,6 +2455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/water_essence_to_obsidian": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -1964,6 +2470,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
     },
     "done": true
   },
@@ -1979,9 +2491,21 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/food/magic_garlic_bread": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/archwood_pressure_plate": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/duality_rings": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -1994,6 +2518,18 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-16 00:16:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:catacumbs_lugubrious": {
+    "criteria": {
+      "catacumbs_lugubrious_0": "2025-07-16 00:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-16 00:25:52 +0000"
     },
     "done": true
   },
@@ -2075,9 +2611,21 @@
     },
     "done": true
   },
+  "apotheosis:affix/root": {
+    "criteria": {
+      "sword": "2025-07-16 00:23:51 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candelabra": {
+    "criteria": {
+      "has_gold": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -2099,9 +2647,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-07-16 00:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-16 00:18:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-07-16 00:23:51 +0000"
     },
     "done": true
   },
@@ -2177,6 +2737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-16 00:20:02 +0000"
@@ -2186,6 +2752,12 @@
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -2213,6 +2785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 00:20:02 +0000"
@@ -2222,6 +2800,12 @@
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-16 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -2315,6 +2899,12 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/vertical_stasis_stone": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-07-16 00:16:36 +0000"
@@ -2330,6 +2920,12 @@
   "ars_nouveau:recipes/misc/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
     },
     "done": true
   },
@@ -2357,6 +2953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
@@ -2366,6 +2968,18 @@
   "ars_nouveau:recipes/building_blocks/stripped_blue_archwood_wood": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/hunter/garlic_diffuser_normal": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -2390,6 +3004,12 @@
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-16 00:25:50 +0000"
     },
     "done": true
   },
@@ -2468,6 +3088,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -2579,15 +3205,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-16 00:17:37 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/pink_table_cloth": {
     "criteria": {
       "has_wool": "2025-07-16 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:23 +0000"
     },
     "done": true
   },
@@ -2612,6 +3256,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-16 00:20:20 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candelabra_candles": {
+    "criteria": {
+      "has_gold": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
@@ -2651,9 +3301,21 @@
     },
     "done": false
   },
+  "chromaticarsenal:recipes/combat/world_anchor": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
     },
     "done": true
   },
@@ -2666,6 +3328,24 @@
   "ars_nouveau:recipes/misc/sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/chromatic_upgrade_smithing_template": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-16 00:25:47 +0000"
     },
     "done": true
   },
@@ -2687,9 +3367,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-16 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/cursed_totem": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/ritual_challenge": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-07-16 00:23:51 +0000"
     },
     "done": true
   },
@@ -2714,9 +3412,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-16 00:16:05 +0000",
+      "minecraft:taiga": "2025-07-16 00:23:19 +0000",
       "minecraft:birch_forest": "2025-07-16 00:19:43 +0000",
       "minecraft:dark_forest": "2025-07-16 00:17:33 +0000",
-      "minecraft:river": "2025-07-16 00:18:22 +0000"
+      "minecraft:river": "2025-07-16 00:18:22 +0000",
+      "minecraft:forest": "2025-07-16 00:22:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-07-16 00:23:05 +0000",
+      "minecraft:plains": "2025-07-16 00:24:01 +0000"
     },
     "done": false
   },
@@ -2741,6 +3443,12 @@
   "ars_nouveau:recipes/misc/experience_gem": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/chroma_salvager": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -2774,6 +3482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
+    },
+    "done": true
+  },
   "apotheosis:give_book": {
     "criteria": {
       "tick": "2025-07-16 00:16:04 +0000"
@@ -2786,15 +3500,34 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-07-16 00:25:02 +0000",
+      "cooked_beef": "2025-07-16 00:21:22 +0000"
+    },
+    "done": false
+  },
   "ars_nouveau:recipes/misc/ritual_wilden_summon": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/super_harpy_feather": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
+    },
+    "done": true
+  },
   "vc_gliders:recipes/misc/reinforced_paper_netherite": {
     "criteria": {
       "has_crafting_table": "2025-07-16 00:20:15 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/gravity_stone": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-16 00:25:53 +0000"
     },
     "done": true
   },
@@ -2825,6 +3558,18 @@
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-16 00:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-07-16 00:25:10 +0000"
     },
     "done": true
   },
@@ -2885,6 +3630,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_mosaic_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-07-16 00:16:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-16 00:23:50 +0000"
     },
     "done": true
   },
